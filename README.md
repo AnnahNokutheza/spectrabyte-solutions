@@ -1,5 +1,4 @@
 # SPECTRABYTESOLUTIONS
 
-<img src="/img/gallery/logo.png" alt="">
-
+<img src="logo.png" alt="">
 
