@@ -1,4 +1,4 @@
-#SPECTRABYTESOLUTIONS
+# SPECTRABYTESOLUTIONS
 
-![Alt Text](public/img/gallery/your_image.png)
+![Alt Text](public/img/gallery/logo.png)
 
