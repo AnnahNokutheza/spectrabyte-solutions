@@ -1,2 +1,4 @@
-#SPECTRABYTE SOLUTIONS
-<img src="/img/gallery/logo" alt=">
+#SPECTRABYTESOLUTIONS
+
+![Alt Text](public/img/gallery/your_image.png)
+
